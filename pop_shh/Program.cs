@@ -53,7 +53,6 @@ public class PopProject
 
         switch (month)
         {
-
             case 1:
 
             case 3:
